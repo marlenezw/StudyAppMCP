@@ -1,0 +1,2 @@
+# StudyAppMCP
+Python mcp server 
